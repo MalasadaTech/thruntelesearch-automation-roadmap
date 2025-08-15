@@ -1,7 +1,7 @@
-# thruntelesearch-automation-roadmap
+# thruntellisearch-automation-roadmap
 ## Basic info
 
-This is just a placeholder to document stuff I'm working on. I've created an initial version for most of the stuff below. I've listed the processes that I perform regularly (or planned to implement like hIGMA) in my MalasadaTech hobbyist role. The end-state would be a system that automates myself out of my MalasadaTech Thruntelesearch role.
+This is just a placeholder to document stuff I'm working on. I've created an initial version for most of the stuff below. I've listed the processes that I perform regularly (or planned to implement like hIGMA) in my MalasadaTech hobbyist role. The end-state would be a system that automates myself out of my MalasadaTech Thruntellisearch role.
 
 ## Thringestor - https://github.com/MalasadaTech/Thringestor
 
@@ -35,7 +35,7 @@ A tool to use Thringestor, IOC-comparer, hIGMA, and Masq-monitor as inputs. Thre
 
 Stores pivots for statistical analysis. Uses input from hIGMA. Output provides gee wiz info for thrintel. 
 
-## Basic Operational Threat Orientation - https://github.com/MalasadaTech/basic-operational-thruntelisearch-orchestrator
+## Basic Operational Threat Orientation - https://github.com/MalasadaTech/basic-operational-thruntellisearch-orchestrator
 
 A conceptual pipeline that puts all the tools to use. This would automate the processes listed above, and would be the orchestrator that performs the operations by thrintel, thrunt, or thresearch thranalysts. This is "my replacement".
 
